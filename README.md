@@ -1,0 +1,2 @@
+# ArcoLinuxB-Openbox Calamares configuration
+
